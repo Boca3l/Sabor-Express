@@ -1,2 +1,2 @@
 # Sabor-Express
- App para cadastro de restaurantes
+ App backend para cadastro de restaurantes
